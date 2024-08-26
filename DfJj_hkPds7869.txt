@@ -233,11 +233,15 @@ com-verify.site
 command-email.online
 credentials-telekom.online
 creditals-mirohost.space
+ddnsking.com
+duckdns.org
+ddns.net
 i-ua.site
 inbox-admin.site
 interia-firewall.site
 interia-pl.website
 is-lt.online
+itsaol.com
 konto-verify.space
 kontrola-bezpieczenstwa.online
 kontrola-bezpieczenstwa.site
@@ -261,6 +265,7 @@ mirohost.online
 mirohost.site
 mod-mil.online
 mod-mil.site
+myz.info
 net-account.online
 net-account.space
 net-firewall.online
@@ -268,7 +273,11 @@ net-support.site
 net-verification.online
 net-verify.site
 net-verify.website
+no-ip.biz
+no-ip.org
 onet-pl.online
+organiccrap.com
+otzo.com
 op-pl.site
 potwierdzenie.site
 ron-mil-pl.space
@@ -282,6 +291,7 @@ secure-firewall.site
 secure-firewall.website
 secure-ua.site
 secure-ua.website
+servep2p.com
 sign-in-inbox.site
 signin-inbox.online
 signin-telekom.online
